@@ -1,0 +1,14 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "## API",
+  "main": "index.js",
+  "scripts": {
+    "ce": "./node_modules/.bin/live-server CustomElements/"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
