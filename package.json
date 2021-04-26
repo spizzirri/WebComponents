@@ -4,7 +4,8 @@
   "description": "## API",
   "main": "index.js",
   "scripts": {
-    "ce": "./node_modules/.bin/live-server CustomElements/"
+    "ce": "./node_modules/.bin/live-server CustomElements/",
+    "template": "./node_modules/.bin/live-server Template/"
   },
   "author": "",
   "license": "ISC",
