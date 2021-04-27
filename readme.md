@@ -48,3 +48,9 @@
 
 * adoptedCallback():
     Cuando un componente se va adoptar en un iframe
+
+## Tipos de DOM
+
+* ShadowDOM
+* LiteDOM
+* ShadowRoot
