@@ -6,7 +6,8 @@
   "scripts": {
     "ce": "./node_modules/.bin/live-server CustomElements/",
     "template": "./node_modules/.bin/live-server Template/",
-    "shadow": "./node_modules/.bin/live-server ShadowDOM/"
+    "shadow": "./node_modules/.bin/live-server ShadowDOM/",
+    "slot": "./node_modules/.bin/live-server Slot/"
   },
   "author": "",
   "license": "ISC",

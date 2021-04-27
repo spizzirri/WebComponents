@@ -52,5 +52,5 @@
 ## Tipos de DOM
 
 * ShadowDOM
-* LiteDOM
+* LiveDOM
 * ShadowRoot
