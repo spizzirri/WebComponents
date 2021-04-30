@@ -8,7 +8,8 @@
     "template": "./node_modules/.bin/live-server Template/",
     "shadow": "./node_modules/.bin/live-server ShadowDOM/",
     "slot": "./node_modules/.bin/live-server Slot/",
-    "atributos": "./node_modules/.bin/live-server Atributos/"
+    "atributos": "./node_modules/.bin/live-server Atributos/",
+    "acc": "./node_modules/.bin/live-server attributeChangedCallback/"
   },
   "author": "",
   "license": "ISC",
