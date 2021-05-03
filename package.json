@@ -9,7 +9,8 @@
     "shadow": "./node_modules/.bin/live-server ShadowDOM/",
     "slot": "./node_modules/.bin/live-server Slot/",
     "atributos": "./node_modules/.bin/live-server Atributos/",
-    "acc": "./node_modules/.bin/live-server attributeChangedCallback/"
+    "acc": "./node_modules/.bin/live-server attributeChangedCallback/",
+    "disconnected": "./node_modules/.bin/live-server disconnectedCallback/"
   },
   "author": "",
   "license": "ISC",
