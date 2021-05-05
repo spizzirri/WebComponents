@@ -10,7 +10,8 @@
     "slot": "./node_modules/.bin/live-server Slot/",
     "atributos": "./node_modules/.bin/live-server Atributos/",
     "acc": "./node_modules/.bin/live-server attributeChangedCallback/",
-    "disconnected": "./node_modules/.bin/live-server disconnectedCallback/"
+    "disconnected": "./node_modules/.bin/live-server disconnectedCallback/",
+    "host": "./node_modules/.bin/live-server cssHost/"
   },
   "author": "",
   "license": "ISC",
