@@ -12,7 +12,8 @@
     "acc": "./node_modules/.bin/live-server attributeChangedCallback/",
     "disconnected": "./node_modules/.bin/live-server disconnectedCallback/",
     "host": "./node_modules/.bin/live-server cssHost/",
-    "slotted": "./node_modules/.bin/live-server cssSlotted/"
+    "slotted": "./node_modules/.bin/live-server cssSlotted/",
+    "customprops": "./node_modules/.bin/live-server cssCustomProps/"
   },
   "author": "",
   "license": "ISC",
