@@ -13,7 +13,8 @@
     "disconnected": "./node_modules/.bin/live-server teoria/disconnectedCallback/",
     "host": "./node_modules/.bin/live-server teoria/cssHost/",
     "slotted": "./node_modules/.bin/live-server teoria/cssSlotted/",
-    "customprops": "./node_modules/.bin/live-server teoria/cssCustomProps/"
+    "customprops": "./node_modules/.bin/live-server teoria/cssCustomProps/",
+    "proyecto": "./node_modules/.bin/live-server proyecto/"
   },
   "author": "",
   "license": "ISC",
